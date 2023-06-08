@@ -30,7 +30,7 @@ Instructor de curso Programación en Scratch (30 horas)
 
  -Del 20 de mazo al 21 de abril de 2023
  
- 
+Curso en Cisco Networking Academy
 
 ### Experiencia Laboral
 Cajera de cyber
