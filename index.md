@@ -4,7 +4,7 @@ Nombre: Karla Dessire
 
 Apellido: Espinoza Mazzini
 
-Fecha de nacimiento: 16 de noviembre de 2001
+Fecha de nacimiento: oo de noviembre de 2001
 
 Lugar de nacimiento: Guayaquil, Ecuador
 
