@@ -1,88 +1,28 @@
 # Curriculum Vitae
+### Datos personales
 
-Es una iniciativa de la [Sociedad de Inteligencia Computacional de IEEE Sección Ecuador](https://www.facebook.com/IEEECISEcuador) co-organizado con la [Carrera de Computación](https://www.facebook.com/ComputacionUPSGYE) de la [Universidad Politécnica Salesiana del Ecuador](https://www.ups.edu.ec/).
+Fecha de nacimiento: 16 de noviembre de 2001
 
-La academia permitirá que los estudiantes puedan adquirir las sigiuentes competencias:
+Lugar de nacimiento: Guayaquil, Ecuador
 
-- Uso de algoritmos para la resolución de problemas.
-- Creación de soluciones mediante un lenguaje de programación.
+Teléfono: 0000000000
 
-Esta academia está dirigida a los estudiantes de bachillerato que cumplan con los siguientes requisitos:
+Email: kar@hotmail.com
 
-- Estudiante de 2do o 3ero de bachillerato.
-- Tener mucha motivación para crear cosas nuevas.
-- Que posea un computador con conexión a internet en casa.
+### Formación académica
 
-## Contenidos
+Estudios primarios
+- Riverside School
 
-Los estudiantes que puedan acceder a la academia verán los siguientes contenidos:
+Estudios secundarios
+- Colegio mixto particular José Domingo de Santistevan (Graduada en sistemas)
 
-- Módulo 1: Algoritmos.
-- Módulo 2: Lenguaje de Programación.
-- Módulo 3: Casos Prácticos. 
+Estudios universitarios
+- Estudiando en Universidad Politécnica Salesiana (Ingeniería en Ciencias de la Computación)
 
-### Fechas importantes para los postulantes
+### Experiencia Laboral
+Cyber
 
-Proceso de selección: 
+### Referencias
+XXX
 
-- Fecha de convocatoria: 28 de febrero de 2022.
-- Fecha de finalización de convocatoria: 25 de marzo de 2022.
-- Entrevista con los pre-seleccionados: 28 de marzo al 8 de abril de 2022.
-- Fecha de notificación: 11 de abril al 15 de abril de 2022.
-- Fecha de inicio de la Academia: 25 de abril al 19 de agosto de 2022.
-
-## IEEE Sociedad de Inteligencia Computacional
-
-El capitulo profesional de la Sociedad y los capítulos estudiantiles a nivel nacional se encuentran, de manera conjunta, trabajando para la conformación de la Academia de Programación y decenas de estudiantes de secundaria puedan perfeccionar sus conocimientos a nivel de programación.
-
-### Capítulo Profesional
-
-En el capítulo profesional se encuentran personas gracuadas comprometidas, miembros y no miembros, trabajando para cumplir con el objetivo de este proyecto.
-
-El listado es el siguiente:
-
-- Guillermo Pizarro, Universidad Politécnica Salesiana (miembro IEEE Senior CIS).
-- Miguel Botto Tobar, Universidad de Guayaquil (miembro IEEE CIS).
-- Félix Plúas, GRUPASA, miembro voluntario.
-- Cynthia Barcenes Llanos, miembro voluntaria. 
-
-### Capítulos Estudiantiles
-
-En los capítulos estudiantiles se encuentran estudiantes universitarios de diferentes ciudades dispuestos a colaborar con el seguimiento de los estudiantes de la Academia.
-
-El listado es el siguiente:
-
-- Montesdeoca Rodríguez Juan Carlos, Guayaquil, Universidad de Guayaquil (miembro IEEE CIS).
-- Marcos Jossue Bailón Guaranda, Guayaquil, Universidad de Guayaquil (miembro IEEE CIS).
-- David Enrique Torres Ochoa, Euito, ESPE (miembro IEEE CIS).
-- Camilo Andrés Orrico Emme, Quito, ESPE.
-- Kleber Enrique Chavez Oscullo, Quito, ESPE.
-- Jeimy Marley Morales Sosa, Quito, ESPE.
-- Gabriel Misael Medranda Garcia, Guayaquil, Universidad de Guayaquil (miembro IEEE CIS).
-- Alex German Chicaiza Altasig, Quito, ESPE.
-- Darwin Alexander Rodríguez Merchan, Guayaquil, Universidad de Guayaquil.
-- Roberto Alexander Bedon Guevara, Quito, ESPE.
-- Jimmy Ricardo Guanoluisa Castillo, Quito, EPN.
-- Xavier Omar Ortiz Padilla, Quito, ESPE (miembro IEEE CIS). 
-
-### Actividades principales de los voluntarios
-
-Profesionales:
-- Grabar videos para las clases asíncronas.
-
-Estudiantes Universitarios (asistentes académicos):
-- Implementar código con ejemplos y sus respectivos diagramas de los algoritmos utilizados.
-- Elaborar el material didáctico.
-- Sesiones síncronas con los estudiantes para aclarar alguna duda.
-
-Estudiantes Universitarios (redes sociales):
-- Elaborar material para publicar en las redes sociales.
-- Publicación continua de las actividades varias.
-
-### Planificación de las actividades
-
-Proceso de trabajo:
-
-- Convocatoria para los instructores: profesionales graduados (15 de enero de 2022).
-- Convocatoria para los asistentes de los instructores: estudiantes universitarios (21 de enero de 2022).
-- ELaboración de los materiales y recursos (febrero y marzo de 2022).
