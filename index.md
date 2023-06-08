@@ -1,4 +1,4 @@
-# Academia de Programación
+# Curriculum Vitae
 
 Es una iniciativa de la [Sociedad de Inteligencia Computacional de IEEE Sección Ecuador](https://www.facebook.com/IEEECISEcuador) co-organizado con la [Carrera de Computación](https://www.facebook.com/ComputacionUPSGYE) de la [Universidad Politécnica Salesiana del Ecuador](https://www.ups.edu.ec/).
 
