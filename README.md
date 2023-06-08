@@ -12,7 +12,7 @@ Email: kar@hotmail.com
 ### Formación académica
 
 Estudios primarios
-- Riverside School
+- Escuela Riverside School
 
 Estudios secundarios
 - Colegio mixto particular José Domingo de Santistevan (Graduada en sistemas)
